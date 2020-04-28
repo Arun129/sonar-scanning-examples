@@ -95,7 +95,7 @@
               <properties>
          <!-- Optional URL to server. Default value is http://localhost:9000 -->
          <sonar.host.url>
-                  http://localhost:9000
+                  http://18.212.61.58:9000
          </sonar.host.url>
          </properties>
       <build>
